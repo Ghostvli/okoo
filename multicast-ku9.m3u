@@ -377,3 +377,4 @@ http://192.168.110.110:5140/rtp/239.253.240.174:8000?fcc=124.132.240.66:15970
 http://192.168.110.110:5140/rtp/239.253.240.199:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/环球旅游.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22122209125585392509.rsc?tvdr=${(b)yyyyMMddHHmmss:utc}GMT-${(e)yyyyMMddHHmmss:utc}GMT", 环球旅游
 http://192.168.110.110:5140/rtp/239.253.240.71:8000?fcc=124.132.240.66:15970
+
