@@ -1,0 +1,12 @@
+{
+  "sites": [
+    {
+      "key": "csp_ZTESpider",
+      "name": "联通中兴",
+      "type": 3,
+      "api": "csp_ZTESpider",
+      "ext": "1:43d9cd2f479f9a8e46507165830e172cacf2ae4f85358bd3668fb478f8ad4490f4ea564e14a47acf24548f5756f6e3f60357914d1f25d05f4e5e8c19862104ff40ac907e73e6216557c9e63a00a9638b5d645dd867e0a67e",
+      "searchable": 1
+    }
+  ]
+}
